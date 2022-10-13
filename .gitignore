@@ -1,2 +1,5 @@
 node_modules/
 keys-dev.js
+*.PNG
+pipelines-final/
+info.md
